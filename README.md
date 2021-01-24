@@ -1,47 +1,77 @@
-### Hi there, thanks for stopping by 👋
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-I'm a software engineer with customer support experience. Currently I'm working on Granada city hall as part of the General Data Protection Regulation (GDPR) team. In In parallel, I'm learning about Ionic, Angular, and Nodejs to become a backend or fullstack developer in the near future.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](acasadoquijada@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-casado-quijada/)
 
-Check out some interesting repositories sorted by the technology used.
+* Software developer graduated in Granada University (Bachelor's and Master's degree)
 
-#### Java/Android
+* `>` 2 years of experience providing support to customers
 
-- [Planos y Centellas](https://github.com/acasadoquijada/planos-y-centellas-java)
-- [Podcastfy](https://github.com/acasadoquijada/Capstone-Project)
-- [Baking time!](https://github.com/acasadoquijada/baking_time)
+* Currently working in Granada City hall until late June.
 
-#### Kotlin/Android
+* Planning to move to an Android Developer (Ionic/Java/Kotlin) or a Fullstack(Angular, NodeJS) position
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
-- [TheCocktailDB](https://github.com/acasadoquijada/TheCocktailDB)
-- [Movie Catalog](https://github.com/acasadoquijada/movie-catalog)
-- [Planos y Centellas](https://github.com/acasadoquijada/planos-y-centellas-kotlin)
+- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [**Placesfy**](https://github.com/acasadoquijada/placesfy)
 
-#### Javascript
+- 🎯 I'm currently studying [Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+)](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/).. by **Maximilian Schwarzmüller** in Udemy
+    
+    When I finish it, I will complete these courses:
+    - [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+    - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-- [Vet appointment manager](https://github.com/acasadoquijada/vet-appointment-manager)
-- [Loan calculator](https://github.com/acasadoquijada/Loan-Calculator)
+* In May/June I will start searching Android/Fullstack positions.
+
+## 🗂️ Highlight Projects
+
+### Android
+
+<a href="https://github.com/acasadoquijada/planos-y-centellas-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=planos-y-centellas-java&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Planos y Centellas Java" />
+</a>
+
+<a href="https://github.com/acasadoquijada/podcastfy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=Capstone-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Podcastfy" />
+</a>
 
 
-<div align="center">
+<a href="https://github.com/acasadoquijada/TheCocktailDB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=TheCocktailDB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=acasadoquijada&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Acasadoquijada's Github Stats">
+<a href="https://github.com/acasadoquijada/movie-catalog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=movie-catalog&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
 
-</br>
-</br>
+<a href="https://github.com/acasadoquijada/planos-y-centellas-kotlin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=planos-y-centellas-kotlin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
 
+### Javascript
+
+<a href="https://github.com/acasadoquijada/vet-appointment-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=vet-appointment-manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
+
+<a href="https://github.com/acasadoquijada/Loan-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=Loan-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
+
+### Ionic
+
+<a href="https://github.com/acasadoquijada/My-Courses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=My-Courses&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
+
+<a href="https://github.com/acasadoquijada/placesfy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=placesfy&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
+</a>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/acasadoquijada/acasadoquijada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acasadoquijada&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a> <a href="https://github.com/acasadoquijada/acasadoquijada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acasadoquijada&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>
 </div>
-<!--
-**acasadoquijada/acasadoquijada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
