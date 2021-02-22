@@ -1,24 +1,23 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](acasadoquijada@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acasadoquijada@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-casado-quijada/)
 
-* Software developer graduated in Granada University (Bachelor's and Master's degree)
+- Software developer graduated in Granada University (Bachelor's and Master's degree)
 
-* `>` 2 years of experience providing support to customers
+- **>** 2 years of experience providing support to customers
 
-* Currently working in Granada City hall until late June.
+- Currently working in Granada City hall until late June.
 
-* Planning to move to an Android Developer (Ionic/Java/Kotlin) or a Fullstack(Angular, NodeJS) position
+- Planning to move to an Android Developer (Ionic/Java/Kotlin) or a Fullstack(Angular, NodeJS) position
+
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [**Placesfy**](https://github.com/acasadoquijada/placesfy)
+- 🔨 𝙸’𝚖 wrapping up [**Placesfy**](https://github.com/acasadoquijada/placesfy)
 
-- 🎯 I'm currently studying [Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+)](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/).. by **Maximilian Schwarzmüller** in Udemy
-    
-    When I finish it, I will complete these courses:
-    - [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-    - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- 🎯 I'm currently studying [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by **Maximilian Schwarzmüller** in Udemy
+  When I finish it, I will complete these courses:
+  - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 * In May/June I will start searching Android/Fullstack positions.
 
@@ -33,7 +32,6 @@
 <a href="https://github.com/acasadoquijada/podcastfy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=Capstone-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Podcastfy" />
 </a>
-
 
 <a href="https://github.com/acasadoquijada/TheCocktailDB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acasadoquijada&repo=TheCocktailDB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TheCocktailDB" />
