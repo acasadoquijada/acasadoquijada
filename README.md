@@ -13,11 +13,13 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
-- 🔨 𝙸’𝚖 wrapping up [**Placesfy**](https://github.com/acasadoquijada/placesfy)
+- 🔨 𝙸’𝚖 working on  [**All you need for your recipes**](https://github.com/acasadoquijada/allyouneedforyourrecipes)
 
 - 🎯 I'm currently studying [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by **Maximilian Schwarzmüller** in Udemy
+
   When I finish it, I will complete these courses:
   - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+  - [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 * In May/June I will start searching Android/Fullstack positions.
 
